@@ -1,7 +1,7 @@
 
 # SITE CONFIGURATION
 url: "https://kitchensunderstatements.netlify.app"   #change this to yours
-repository: max19057767/kitchensunderstatements
+repository: max19057767/maxrecipes
 title: Your recipe collection
 recipemenu: false # you can change to true and a menu of all recipes will appear
 editbutton: true # you can navigate to edit your site by going to https://kitchensunderstatements.netlify.app/admin
