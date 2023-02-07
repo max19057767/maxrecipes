@@ -1,5 +1,5 @@
 ---
-title: "Kitchen's Understatements: Nutritious & Simple Ingredients"
+title: "Kitchen's Understatements: Made With Nutritious & Simple Ingredients"
 coverimage: ../uploads/kasza-header.jpg
 permalink: /
 layout: recipeshome
