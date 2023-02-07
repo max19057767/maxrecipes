@@ -1,9 +1,10 @@
 ---
+title: "Kitchen's Understatements: Nutritious & Simple Ingredients"
+coverimage: ../uploads/kasza-header.jpg
+permalink: /
 layout: recipeshome
-title: Here is the name of your recipe site
-permalink: "/"
-coverimage: ../uploads/bookcover.jpg
 published: true
+date: 2023-02-07T12:58:28.330Z
 ---
 
 Here is an introduction to my recipe site
