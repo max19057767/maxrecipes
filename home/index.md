@@ -6,11 +6,19 @@ layout: recipeshome
 published: true
 date: 2023-02-07T12:58:28.330Z
 ---
+Groats, i.e. products obtained from cereal grains (completely or partially dehusked, and sometimes also ground), should be one of the main sources of carbohydrates in a balanced diet. One time of groats in particular - Buckwheat, is a very good source of protein. The complex carbohydrates groats can provide energy for a longer period of time, for instance, in comparison to the commonly used rice. Depending on the type of grain or pseudo-cereal the groats were made from, they are characterised by different content of minerals, vitamins and fibre. Among others, groats are rich in:
 
-Here is an introduction to my recipe site
+* Potassium
+* Phosphorus
+* Zinc
+* Magnesium
+* Iron
+* B vitamins (B1, B2, B6)
 
-You should use **markdown** to write this text and this will automatically be converted to `HTML`.
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+![](../uploads/kasza-2.jpg "Variations of Groats ")
+
+
+
+Groats should be part of a healthy and balanced diet - they are characterised by high nutritional density, a wealth of vitamins and minerals. They can be used to prepare many dishes, both savoury and sweet. The link below will redirect you to recipes for delicious and, more importantly, nutritious dishes made from groats - the kitchen’s understatement.
