@@ -12,17 +12,11 @@ It also has a calming effect - oat groats are a rich source of potassium, seleni
 
 Steel-cut oats contain more antioxidants than other types of groats. In terms of antioxidant content, it surpasses most vegetables, fruits and cereals. Rich in complex carbohydrates, protein and fibre as well as minerals and vitamins.
 
-
-
-![A bowl of porridge, topped with fruit. Surrounded by a bowl of honey, yogurt, oats, dried and fresh fruit.](../uploads/kasza-owsiana.jpeg "Spelt Porridge (Serving Example)")
-
-
+![A bowl of porridge, topped with fruit.](../uploads/kasza-jaglana-na-mleku-2.jpg "Spelt Porridge (Serving Example)")
 
 > ##### Serves 2
 >
 > ##### Cooking Time: 15-20 mins.
-
-
 
 ###### Ingredients:
 
@@ -44,13 +38,9 @@ Pinch of Salt
 
 Any Fresh Fruit (Topping)
 
-
-
 1.
 
 Toast the flaked almonds and coconut in a dry frying pan until golden.
-
-
 
 2.
 
@@ -61,8 +51,6 @@ Once cooked, leave covered for another 5 - 10 minutes.*
 3.
 
 Put the groats into bowls - pour maple syrup, sprinkle with toasted flakes and decorate with any fresh and dried fruit.
-
-
 
 **Things to keep in mind:**
 
