@@ -1,6 +1,5 @@
 ---
-title: Sweet steel-cut oats, ideal for breakfast or dessert. (With Dried Fruit,
-  Almond & Coconut Flakes)
+title: Sweet steel-cut oats, ideal for breakfast or dessert
 date: 2023-02-09T18:31:21.182Z
 order: 1
 layout: recipe
