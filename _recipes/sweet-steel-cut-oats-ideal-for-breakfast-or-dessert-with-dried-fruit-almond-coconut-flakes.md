@@ -12,7 +12,7 @@ It also has a calming effect - oat groats are a rich source of potassium, seleni
 
 Steel-cut oats contain more antioxidants than other types of groats. In terms of antioxidant content, it surpasses most vegetables, fruits and cereals. Rich in complex carbohydrates, protein and fibre as well as minerals and vitamins.
 
-![A bowl of porridge, topped with fruit.](../uploads/kasza-jaglana-na-mleku-2.jpg "Spelt Porridge (Serving Example)")
+![A bowl of porridge, topped with fruit.](../uploads/kasza-owsiana.jpeg "Spelt Porridge (Serving Example)")
 
 > ##### Serves 2
 >
