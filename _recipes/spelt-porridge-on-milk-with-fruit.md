@@ -1,5 +1,5 @@
 ---
-title: Spelt porridge on milk with fruit.
+title: Spelt porridge on milk with fruit
 date: 2023-02-09T18:57:17.600Z
 order: 3
 layout: recipe
