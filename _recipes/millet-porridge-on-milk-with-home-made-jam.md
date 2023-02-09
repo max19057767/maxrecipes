@@ -1,5 +1,5 @@
 ---
-title: Millet porridge on milk with home-made jam.
+title: Millet porridge on milk with home-made jam
 date: 2023-02-09T18:41:18.954Z
 order: 2
 layout: recipe
