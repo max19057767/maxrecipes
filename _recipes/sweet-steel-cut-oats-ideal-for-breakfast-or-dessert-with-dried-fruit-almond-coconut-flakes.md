@@ -30,9 +30,9 @@ Pinch of Salt
 
 1 Teaspoon of Vanilla Extract
 
-2 Tablespoons of Almond Flakes
+2 Tablespoons of Almond Flakes (Optional)
 
-2 Tablespoons of Coconut Flakes
+2 Tablespoons of Coconut Flakes (Optional)
 
 2 Tablespoons of Any Dried Fruit 
 
@@ -40,7 +40,7 @@ Any Fresh Fruit (Topping)
 
 1.
 
-Toast the flaked almonds and coconut in a dry frying pan until golden.
+Toast the flaked almonds and coconut in a dry frying pan until golden. (Optional)
 
 2.
 
@@ -50,7 +50,7 @@ Once cooked, leave covered for another 5 - 10 minutes.*
 
 3.
 
-Put the groats into bowls - pour maple syrup, sprinkle with toasted flakes and decorate with any fresh and dried fruit.
+Put the groats into bowls - pour maple syrup, sprinkle with toasted flakes (optional) and decorate with any fresh and dried fruit. 
 
 **Things to keep in mind:**
 
