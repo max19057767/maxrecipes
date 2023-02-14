@@ -91,3 +91,9 @@ a:link    { color: rgb(0, 0, 0); text-decoration: none; }
 a:visited { color: rgb(0, 0, 0); text-decoration: none; }
 a:hover   { color: rgb(233, 164, 164); text-decoration: none; }
 a:active  { color: rgba(233, 164, 164, 0.436); text-decoration: none; }
+
+body.recipelist
+h3{
+display: none;
+
+}
