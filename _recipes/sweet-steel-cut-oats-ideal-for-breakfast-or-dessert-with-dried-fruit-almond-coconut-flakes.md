@@ -32,19 +32,10 @@ Steel-cut oats contain more antioxidants than other types of groats. In terms of
 
 
 
-1.
-
-Toast the flaked almonds and coconut in a dry frying pan until golden. (Optional)
-
-2.
-
-Rinse the oat groats in a sieve. Place in a saucepan along with milk, a pinch of salt and vanilla extract. Cook over low heat until all the liquid is absorbed, about 15 - 20 minutes. 
-
-Once cooked, leave covered for another 5 - 10 minutes.*
-
-3.
-
-Put the groats into bowls - pour maple syrup, sprinkle with toasted flakes (optional) and decorate with any fresh and dried fruit. 
+1. Toast the flaked almonds and coconut in a dry frying pan until golden. (Optional)
+2. Rinse the oat groats in a sieve. Place in a saucepan along with milk, a pinch of salt and vanilla extract. Cook over low heat until all the liquid is absorbed, about 15 - 20 minutes. 
+3. Once cooked, leave covered for another 5 - 10 minutes.*
+4. Put the groats into bowls - pour maple syrup, sprinkle with toasted flakes (optional) and decorate with any fresh and dried fruit. 
 
 
 
