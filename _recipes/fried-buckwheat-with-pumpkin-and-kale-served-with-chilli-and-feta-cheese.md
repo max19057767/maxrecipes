@@ -31,8 +31,6 @@ Buckwheat is a great source of protein (it contains approximately 10 to 16 perce
 * 50g of Feta Cheese
 * Salt & Pepper (To Season)
 
-
-
 1. Peel the pumpkin, cut into small cubes, season with salt and pepper. Fry in a pan with a non-stick bottom using a tablespoon of olive oil, for about 10 minutes stirring, or place on a baking tray lined with paper and bake for about 20 minutes at 200°C.
 2. Boil the buckwheat in slightly salted water, with enough water to cover the groats in a saucepan, on a low heat for about 10 - 20 minutes.
 3. Once cooked, leave covered for another 5 - 10 minutes.* Afterwards, drain the groats and place them into a bowl, then mix with the soy sauce.
@@ -40,8 +38,9 @@ Buckwheat is a great source of protein (it contains approximately 10 to 16 perce
 5. Pour the olive oil into the pan, sauté the diced onion. Add sliced garlic and thyme, fry for a minute.
 6. Add the buckwheat groats, chilli pepper and fry, stirring, for half a minute. Then add the fried or baked pumpkin and finally the kale. Stir, add balsamic vinegar and fry for another 1 - 2 minutes. Sprinkle the dish with feta cheese at the end.
 
-##### \
-Things to keep in mind:
+
+
+##### Things to keep in mind:
 
 ∗ Cook the groats in the ratio of 1 cup of groats to 3 to 4 cups of liquid. The less liquid, the more perceptible and hard the groats. However, the more liquid we add, the groats will be soft and tender.
 
