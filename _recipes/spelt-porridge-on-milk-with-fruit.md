@@ -18,24 +18,19 @@ Spelt groats, despite the calorific value, are highly recommended for people on 
 
 #### Ingredients:
 
-1 Cup of Half-Expanded Spelt Groats
+* 1 Cup of Half-Expanded Spelt Groats
+* 1 Cup of Any Milk
+* 1 Tablespoon of Maple Syrup or Honey (Optional)
+* Pinch of Salt
+* Any Fresh Fruit (Topping)
 
-1 Cup of Any Milk
 
-1 Tablespoon of Maple Syrup or Honey (Optional)
 
-Pinch of Salt
+1. Rinse the millet groats in a sieve. Place in a saucepan along with milk and add a pinch of salt. Cook over low heat until all the liquid is absorbed, about 10 - 15 minutes. 
+2. Once cooked, leave covered for another 5 - 10 minutes.*
+3. Serve in a bowl, adding the maple syrup or honey and mixing all together. Lastly, add fresh fruit of your choice as the topping.
 
-Any Fresh Fruit (Topping)
 
-1.\
-Rinse the millet groats in a sieve. Place in a saucepan along with milk and add a pinch of salt. Cook over low heat until all the liquid is absorbed, about 10 - 15 minutes. 
-
-Once cooked, leave covered for another 5 - 10 minutes.*
-
-2. 
-
-Serve in a bowl, adding the maple syrup or honey and mixing all together. Lastly, add fresh fruit of your choice as the topping.
 
 ##### Things to keep in mind:
 
