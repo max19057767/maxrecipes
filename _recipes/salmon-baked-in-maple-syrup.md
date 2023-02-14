@@ -31,23 +31,11 @@ Buckwheat is a great source of protein (it contains approximately 10 to 16 perce
 
 
 
-1.
-
-Cut off the skin from the fillets, divide into smaller portions, rinse, put into an ovenproof dish and add all ingredients except buckwheat. Mix and leave for at least an hour, but better for longer. While waiting, turn the fish 1 - 2 times.
-
-2.
-
-In the meantime, cook the buckwheat with enough water to cover the groats in a saucepan, on a low heat for about 10 - 20 minutes.
-
-Once cooked, leave covered for another 5 - 10 minutes.*
-
-3.
-
-Preheat the oven to 200°C. Put the dish with the salmon in the oven and bake for about 17 minutes.
-
-4.
-
-Put the cooked groats into the dish with the salmon. You can sprinkle the dish with parsley or basil.
+1. Cut off the skin from the fillets, divide into smaller portions, rinse, put into an ovenproof dish and add all ingredients except buckwheat. Mix and leave for at least an hour, but better for longer. While waiting, turn the fish 1 - 2 times.
+2. In the meantime, cook the buckwheat with enough water to cover the groats in a saucepan, on a low heat for about 10 - 20 minutes.
+3. Once cooked, leave covered for another 5 - 10 minutes.*
+4. Preheat the oven to 200°C. Put the dish with the salmon in the oven and bake for about 17 minutes.
+5. Put the cooked groats into the dish with the salmon. You can sprinkle the dish with parsley or basil.
 
 
 
