@@ -4,7 +4,7 @@ date: 2023-02-09T18:57:17.600Z
 order: 3
 layout: recipe
 ---
-#### The Benefits of Spelt Porridge:
+### The Benefits of Spelt Porridge
 
 Spelt groats contain less gluten than wheat and are naturally rich in copper, phosphorus, iron, vitamins A, E, PP, D. It can be used as an addition to dinner dishes, but also for cooking risotto from groats - or grosotto, as well as desserts. Eating spelt groats helps to increase immunity, the groats have a diaphoretic and warming effect - it is always recommended, but especially in the states of flu or cold.
 
@@ -16,7 +16,7 @@ Spelt groats, despite the calorific value, are highly recommended for people on 
 >
 > ###### Cooking Time: 20 mins.
 
-###### Ingredients:
+#### Ingredients:
 
 1 Cup of Half-Expanded Spelt Groats
 
@@ -37,6 +37,6 @@ Once cooked, leave covered for another 5 - 10 minutes.*
 
 Serve in a bowl, adding the maple syrup or honey and mixing all together. Lastly, add fresh fruit of your choice as the topping.
 
-**Things to keep in mind:**
+##### Things to keep in mind:
 
 ∗ Cook the groats in the ratio of 1 cup of groats to 3 to 4 cups of liquid. The less liquid, the more perceptible and hard the groats. However, the more liquid we add, it begins to resemble creamy oatmeal.
