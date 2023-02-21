@@ -128,6 +128,26 @@ a:active  { color: rgba(233, 164, 164, 0.436); text-decoration: none; }
 body.recipelist
 h3{
 display: none;
+}
+
+
+.recipe-teaser{
+
+  border: 1px;
+  border-color: rgba(233, 144, 144, 0.663);;
+  padding: 1rem;
+  flex-basis: 300px;
+  flex-grow: 1;
+  margin: 1em; 
 
 }
+
+.list{
+
+display: flex: ;
+flex-wrap: wrap;
+justify-content: space-between;
+
+}
+
 
