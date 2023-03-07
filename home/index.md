@@ -1,6 +1,6 @@
 ---
 title: "Kitchen's Understatements: Made With Nutritious & Simple Ingredients"
-coverimage: ../uploads/91d44822-7a9d-4444-8edc-fe863fbae9cd.png
+coverimage: ../uploads/d373c346-528a-40cb-9ea1-f4ea3c58ab35.png
 permalink: /
 layout: recipeshome
 published: true
