@@ -10,7 +10,7 @@ Buckwheat groats are rich in unique exogenous amino acids - especially in lysine
 
 Buckwheat is a great source of protein (it contains approximately 10 to 16 percent). The protein from buckwheat is better absorbed than that derived from cereals, it has a similar value as legume protein. Buckwheat also regulates blood pressure and has potential anti-cancer effects.
 
-![Buckwheat with pumpkin and kale served in a large bowl, surrounded by sliced pumpkins.](../uploads/kasza-gryczana-z-dynia-1.jpg "Buckwheat with Pumpkin and Kale")
+![Buckwheat with pumpkin and kale served in a large bowl, surrounded by sliced pumpkins.](../uploads/bcfd629f-47fd-4bc8-bb82-2df40554b194.png "Buckwheat with Pumpkin and Kale")
 
 > ###### Serves: 2
 >
@@ -37,8 +37,6 @@ Buckwheat is a great source of protein (it contains approximately 10 to 16 perce
 4. Wash the kale, tear off the soft leaves from the hard part in the middle, chop, put in boiling water for a minute, drain.
 5. Pour the olive oil into the pan, sauté the diced onion. Add sliced garlic and thyme, fry for a minute.
 6. Add the buckwheat groats, chilli pepper and fry, stirring, for half a minute. Then add the fried or baked pumpkin and finally the kale. Stir, add balsamic vinegar and fry for another 1 - 2 minutes. Sprinkle the dish with feta cheese at the end.
-
-
 
 ##### Things to keep in mind:
 
