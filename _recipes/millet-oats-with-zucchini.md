@@ -8,7 +8,7 @@ layout: recipe
 
 Millet oats contain vitamin E, various B vitamins and lecithin (a mixture of fats that are essential to cells in the human body). It i﻿s t﻿he perfect gluten-free alternative as it does not contain gluten. A﻿dditionally, it provides the body with silicon, which is responsible for healthy joints, strong hair and nails, and proper metabolism. It is easily digestible and well absorbed. It can be served in many ways and it is delicious every time!
 
-![Millet oats with zucchini served in a bowl.](../uploads/kasza-jaglana-z-cukinia.jpg "Millet Oats with Zucchini")
+![Millet oats with zucchini served in a bowl.](../uploads/b87f3283-7ca9-4267-80a7-7a9fdfacc37b.png "Millet Oats with Zucchini")
 
 > ###### Serves: 2
 >
@@ -28,15 +28,11 @@ Millet oats contain vitamin E, various B vitamins and lecithin (a mixture of fat
 * ½ Teaspoon of Dried Oregano
 * A Piece of Chili Pepper (Optional)
 
-
-
 1. Cook the millet with enough water to cover the groats in a saucepan, on a low heat for about 10 - 20 minutes.
 2. Once cooked, leave covered for another 5 - 10 minutes.*
 3. In a frying pan, fry the diced zucchini in 1 tablespoon of olive oil until browned, stir occasionally, season with salt and pepper.
 4. Add the crushed garlic and fry for a while, stirring. Add spices and cooked millet. Stir fry for about 2 minutes.
 5. Put on a plate, add chopped tomatoes, season with salt and pepper, sprinkle with chopped onion, chopped pepper and basil or arugula. Drizzle the remaining olive oil.
-
-
 
 ##### Things to keep in mind:
 
