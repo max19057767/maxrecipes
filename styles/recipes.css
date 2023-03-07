@@ -116,7 +116,7 @@ margin-bottom: 12px;}
 
 a:link    { color: rgb(0, 0, 0); text-decoration: none; }
 a:visited { color: rgb(0, 0, 0); text-decoration: none; }
-a:hover   { color: rgba(209, 161, 140, 0.663); text-decoration: none; }
+a:hover   { color: rgba(209, 198, 192, 0.663); text-decoration: none; }
 a:active  { color: rgba(233, 164, 164, 0.436); text-decoration: none; }
 
 body.recipelist
