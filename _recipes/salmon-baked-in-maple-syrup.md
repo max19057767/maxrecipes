@@ -10,7 +10,7 @@ Buckwheat groats are rich in unique exogenous amino acids - especially in lysine
 
 Buckwheat is a great source of protein (it contains approximately 10 to 16 percent). The protein from buckwheat is better absorbed than that derived from cereals, it has a similar value as legume protein. Buckwheat also regulates blood pressure and has potential anti-cancer effects.
 
-![Salmon](../uploads/salmon-i-kasza.jpg "Salmon with Buckwheat (Serving Example)")
+![Salmon](../uploads/7ffbe1a0-a29b-40aa-a9cd-fffa460a5684.png "Salmon with Buckwheat (Serving Example)")
 
 > ###### Serves: 4
 >
@@ -29,15 +29,11 @@ Buckwheat is a great source of protein (it contains approximately 10 to 16 perce
 * 1 Teaspoon Smoked (Or Sweet) Paprika Powder
 * 100g Buckwheat Groats
 
-
-
 1. Cut off the skin from the fillets, divide into smaller portions, rinse, put into an ovenproof dish and add all ingredients except buckwheat. Mix and leave for at least an hour, but better for longer. While waiting, turn the fish 1 - 2 times.
 2. In the meantime, cook the buckwheat with enough water to cover the groats in a saucepan, on a low heat for about 10 - 20 minutes.
 3. Once cooked, leave covered for another 5 - 10 minutes.*
 4. Preheat the oven to 200°C. Put the dish with the salmon in the oven and bake for about 17 minutes.
 5. Put the cooked groats into the dish with the salmon. You can sprinkle the dish with parsley or basil.
-
-
 
 ##### Things to keep in mind:
 
