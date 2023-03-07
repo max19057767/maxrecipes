@@ -8,7 +8,7 @@ layout: recipe
 
 Millet oats contain vitamin E, various B vitamins and lecithin (a mixture of fats that are essential to cells in the human body). It i﻿s t﻿he perfect gluten-free alternative as it does not contain gluten. A﻿dditionally, it provides the body with silicon, which is responsible for healthy joints, strong hair and nails, and proper metabolism. It is easily digestible and well absorbed. It can be served in many ways and it is delicious every time!
 
-![A bowl of porridge, placed on a grey cloth, with a bowl of yogurt on the right.](../uploads/0e32fe6d-9a41-406d-acb6-981816087091.png "Millet Porridge (Serving Example)")
+![A bowl of porridge, placed on a grey cloth, with a bowl of yogurt on the right.](../uploads/fa47aeac-06cd-49cb-aaa9-9dd5b5369e74.png "Millet Porridge (Serving Example)")
 
 > ###### Serves 2
 >
