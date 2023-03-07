@@ -1,6 +1,6 @@
 ---
 title: "Kitchen's Understatements: Made With Nutritious & Simple Ingredients"
-coverimage: ../uploads/kasza-header.jpg
+coverimage: ../uploads/91d44822-7a9d-4444-8edc-fe863fbae9cd.png
 permalink: /
 layout: recipeshome
 published: true
