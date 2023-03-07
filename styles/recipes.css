@@ -51,12 +51,8 @@ width: 100%;
 font-family: 'Playfair Display', serif;
 
 }
-
-
 h1 {
-
-
-color: rgb(21, 4, 4);
+color: rgba(233, 144, 144, 0.663);
 padding-top: 20px;
 margin-bottom: 15px;
 text-align: center;
@@ -120,7 +116,7 @@ margin-bottom: 12px;}
 
 a:link    { color: rgb(0, 0, 0); text-decoration: none; }
 a:visited { color: rgb(0, 0, 0); text-decoration: none; }
-a:hover   { color: rgba(233, 144, 144, 0.663); text-decoration: none; }
+a:hover   { color: rgb(21, 4, 4); text-decoration: none; }
 a:active  { color: rgba(233, 164, 164, 0.436); text-decoration: none; }
 
 body.recipelist
