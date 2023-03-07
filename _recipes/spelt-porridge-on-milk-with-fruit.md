@@ -10,7 +10,7 @@ Spelt groats contain less gluten than wheat and are naturally rich in copper, ph
 
 Spelt groats, despite the calorific value, are highly recommended for people on a diet. Due to the properties of spelt, it is worth incorporating the ingredient in dishes throughout the day. The spelt diet strengthens the body's organs,  improving the state of the heart and kidneys.
 
-![A bowl of porridge, topped with fresh fruit.](../uploads/kasza-jaglana-na-mleku-2.jpg "Spelt Porridge (Serving Example)")
+![A bowl of porridge, topped with fresh fruit.](../uploads/f1281a25-cb37-4a2b-90ba-2ed751cb1279.png "Spelt Porridge (Serving Example)")
 
 > ###### Serves 2
 >
@@ -24,13 +24,9 @@ Spelt groats, despite the calorific value, are highly recommended for people on 
 * Pinch of Salt
 * Any Fresh Fruit (Topping)
 
-
-
 1. Rinse the millet groats in a sieve. Place in a saucepan along with milk and add a pinch of salt. Cook over low heat until all the liquid is absorbed, about 10 - 15 minutes. 
 2. Once cooked, leave covered for another 5 - 10 minutes.*
 3. Serve in a bowl, adding the maple syrup or honey and mixing all together. Lastly, add fresh fruit of your choice as the topping.
-
-
 
 ##### Things to keep in mind:
 
