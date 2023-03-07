@@ -10,7 +10,7 @@ Buckwheat groats are rich in unique exogenous amino acids - especially in lysine
 
 Buckwheat is a great source of protein (it contains approximately 10 to 16 percent). The protein from buckwheat is better absorbed than that derived from cereals, it has a similar value as legume protein. Buckwheat also regulates blood pressure and has potential anti-cancer effects.
 
-![Prawns in a pan, placed on a cutting board, surrounded by sliced lemons and tomatoes.](../uploads/krewetki.jpg "Prawns with Buckwheat (Serving Example)")
+![Prawns in a pan, placed on a cutting board, surrounded by sliced lemons and tomatoes.](../uploads/6184117f-1dc0-401c-bbee-6116ecc168c2.png "Prawns with Buckwheat (Serving Example)")
 
 > ###### Serves: 2
 >
@@ -28,8 +28,6 @@ Buckwheat is a great source of protein (it contains approximately 10 to 16 perce
 * A Pinch of Chili Flakes (Chopped Fresh Or Powdered)
 * 2 Tablespoon Chopped Parsley
 
-
-
 1. Defrost and clean the prawns, rinse and pat dry.
 2. Cook the buckwheat groats with enough water to cover the groats in a saucepan, on a low heat for about 10 - 20 minutes.
 3. Once cooked, leave covered for another 5 - 10 minutes.*
@@ -39,8 +37,6 @@ Buckwheat is a great source of protein (it contains approximately 10 to 16 perce
 7. Pour an additional tablespoon of olive oil into the same pan, add the leek and cook, stirring, for about 3 minutes.
 8. Add the cubed zucchini and paprika, mix and fry for about 5 minutes. At the end, add the rest of the garlic, season with salt, pepper and hot paprika.
 9. Add groats, mix and fry for 2 minutes, add shrimps and parsley, mix and heat together for about 1 minute.
-
-
 
 ##### Things to keep in mind:
 
